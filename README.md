@@ -25,10 +25,10 @@
 
 ## 기본 요구 사항
 
-1. tailwindcss 설치
+1. tailwindcss 설치 (강의에서 3버전을 사용하고있어서 @3을 붙여줘야합니다.) 
 
 ```powershell
-npm install tailwindcss postcss autoprefixer
+npm install tailwindcss@3 postcss autoprefixer
 ```
 
 2. config 파일 생성
